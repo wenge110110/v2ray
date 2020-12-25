@@ -21,7 +21,7 @@ V2ray 服务端配置：`/etc/v2ray/config.json`
 
 V2ray 客户端配置: `~/v2ray_info.inf`
 
-Nginx 目录： `/etc/nginx`
+Nginx 目录： `/etc/nginx` v2ray网站目录配置 /etc/nginx/conf/conf.d
 
 证书文件: `/data/v2ray.key 和 /data/v2ray.crt` 请注意证书权限设置
 
